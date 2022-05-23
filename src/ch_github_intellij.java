@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ch_github_intellij {
+public class ch_github_intellij {
+    public static void main(String[] args) {
+
+    }
 }
